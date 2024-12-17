@@ -1,3 +1,5 @@
 https://developer.mozilla.org/en-US/docs/Web/HTML for the html terms
 https://ui.aceternity.com for css
 https://tailwindcss.com for css
+https://getwaves.io for waves svg
+https://fonts.google.com for fonts
